@@ -1,3 +1,5 @@
+package Assignment_1_1;
+
 import java.util.Scanner;
 
 public class Assignment_001_001 {

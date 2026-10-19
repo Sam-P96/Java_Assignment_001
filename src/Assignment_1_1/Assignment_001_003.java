@@ -1,6 +1,8 @@
+package Assignment_1_1;
+
 import java.util.Scanner;
 
-public class Asignment_001_003 {
+public class Assignment_001_003 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
